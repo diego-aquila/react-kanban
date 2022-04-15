@@ -2,12 +2,14 @@
   width: 300px;
   padding: 10px;
   border-radius: 8px;
+  height: max-content;
 }
 
 .column-title {
   display: flex;
   flex-direction: row;
   gap: 10px;
+  margin-bottom: 10px;
 }
 
 .column-cards {
