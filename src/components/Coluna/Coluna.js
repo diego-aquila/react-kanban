@@ -1,4 +1,4 @@
-import 'Coluna.css'
+import './Coluna.css'
 
 const Coluna = () => {
     return (

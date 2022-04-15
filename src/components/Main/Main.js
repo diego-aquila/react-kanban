@@ -1,8 +1,10 @@
-import 'Main.css'
+import './Main.css'
 
 const Main = () => {
     return (
-        <p>Teste Main</p>
+        <main className='main'>
+            <h1 className='main-title'>Kanban</h1>
+        </main>
     )
 }
 

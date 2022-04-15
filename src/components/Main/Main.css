@@ -1,0 +1,15 @@
+.main {
+  background-image: url("./img/background-primary.png");
+  background-color: rgb(122, 122, 122);
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 100vh;
+}
+
+.main-title {
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 44.53px;
+  padding-top: 41px;
+  margin-left: 60px;
+}
