@@ -1,6 +1,6 @@
 .main {
   background-image: url("./img/background-primary.png");
-  background-color: rgb(122, 122, 122);
+  background-color: rgba(242, 242, 242, 0.8);
   background-repeat: no-repeat;
   background-position: right;
   height: 100vh;
