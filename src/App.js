@@ -1,12 +1,9 @@
 import "./App.css";
-import { Fragment } from "react";
-import Cards from "./components/Cards/Cards";
+import Main from "./components/Main/Main";
 
 function App() {
   return (
-    <Fragment>
-      <Cards />
-    </Fragment>
+    <Main />
   );
 }
 
