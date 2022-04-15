@@ -1,0 +1,34 @@
+.coluna {
+  width: 300px;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.column-title {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.column-cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+
+.blue {
+  background-color: #59b4d1;
+}
+
+.orange {
+  background: #d0935a;
+}
+
+.purple {
+  background: #945ad1;
+}
+
+.green {
+  background: #59d090;
+}
