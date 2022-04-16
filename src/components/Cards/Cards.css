@@ -1,4 +1,5 @@
 .container-cards {
+
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
@@ -10,27 +11,27 @@
 }
 
 .container-cards-info {
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
 }
 
 .title-cards {
-  color: #171717;
-  font-family: Roboto;
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 21px;
-  letter-spacing: -0.02em;
-  text-align: left;
-  margin-bottom: 10px;
+    color: #171717;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    margin-bottom: 10px;
 }
 
 .label-cards {
-  border-radius: 2px;
-  padding: 5px 4px;
-  font-family: Roboto;
-  font-size: 10px;
-  font-weight: 700;
-  color: #fff;
+    border-radius: 2px;
+    padding: 5px 4px;
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: 700;
+    color: #fff;
 }

@@ -25,14 +25,6 @@
   line-height: 18.75px;
 }
 
-.column-title__white {
-  color: #ffffff;
-}
-
-.column-title__black {
-  color: #000000;
-}
-
 .column-cards {
   display: flex;
   flex-direction: column;

@@ -2,7 +2,7 @@
   background-image: url("./img/background-primary.png");
   background-color: rgba(242, 242, 242, 0.8);
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: center;
   height: 100vh;
 }
 
@@ -25,16 +25,23 @@
 
 .blue {
   background-color: #59b4d1;
+  color: #FFF;
 }
 
 .orange {
   background: #d0935a;
+  color: #FFF;
 }
 
 .purple {
   background: #945ad1;
+  color: #FFF;
 }
 
 .green {
   background: #59d090;
+}
+
+a {
+  color: #000;
 }
